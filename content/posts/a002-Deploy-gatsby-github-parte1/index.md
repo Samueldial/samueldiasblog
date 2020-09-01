@@ -1,5 +1,5 @@
 ---
-title: Fazendo deploy de blog com Gatsby.js e Github Functions - Parte 1
+title: Fazendo deploy de blog com Gatsby.js e Github Actions - Parte 1
 author: Samuel Dias
 date: 2020-09-01
 hero: ./images/hero.jpg
