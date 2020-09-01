@@ -1,33 +1,37 @@
 module.exports = {
   siteMetadata: {
-    title: `Novela by Narative`,
-    name: `Narative`,
-    siteUrl: `https://novela.narative.co`,
-    description: `This is my description that will be used in the meta tags and important for search results`,
+    title: `Samuel Dias`,
+    name: `Samuel Dias`,
+    siteUrl: `http://localhost:8000/`,
+    description: `Minha pequena contribuição para o mundo de análise de dados e negócios.`,
     hero: {
-      heading: `Welcome to Novela, the simplest way to start publishing with Gatsby.`,
-      maxWidth: 652,
+      heading: `Minha pequena contribuição para o mundo de análise de dados e negócios.`,
+      maxWidth: 800,
     },
     social: [
       {
+        name: `email`,
+        url: `mailto:samueldial@gmail.com`,
+      },
+      {
         name: `twitter`,
-        url: `https://twitter.com/narative`,
+        url: `https://twitter.com/aldiasamu`,
       },
       {
         name: `github`,
-        url: `https://github.com/narative`,
+        url: `https://github.com/Samueldial`,
       },
       {
         name: `instagram`,
-        url: `https://instagram.com/narative.co`,
+        url: `https://www.instagram.com/samueldial/`,
       },
       {
         name: `linkedin`,
-        url: `https://www.linkedin.com/company/narative/`,
+        url: `https://www.linkedin.com/in/samueladias/`,
       },
       {
-        name: `dribbble`,
-        url: `https://dribbble.com/narativestudio`,
+        name: `telegram`,
+        url: `https://telegram.me/samueldial`,
       },
     ],
   },
@@ -41,7 +45,7 @@ module.exports = {
         authorsPage: true,
         sources: {
           local: true,
-          // contentful: true,
+          contentful: true,
         },
       },
     },
@@ -54,7 +58,7 @@ module.exports = {
         background_color: `#fff`,
         theme_color: `#fff`,
         display: `standalone`,
-        icon: `src/assets/favicon.png`,
+        icon: `src/assets/mo.png`,
       },
     },
     {
