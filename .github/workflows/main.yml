@@ -29,7 +29,7 @@ jobs:
       # Runs a set of commands using the runners shell
       - name: generate blog statics
         run: npm run build
-      - uses: actions/artifact@v1
+      - uses: actions/upload-artifact@v1
         with:
           name: public-folder
           path: public
@@ -37,7 +37,7 @@ jobs:
       runs-on: ubuntu-latest
       needs: build
       steps:
-        - uses: actions/doanload-artifact@v1
+        - uses: actions/download-artifact@v1
           with: 
             name: public-folder 
         - uses: jakejarvis/s3-sync-action@master
