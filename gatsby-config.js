@@ -3,9 +3,9 @@ module.exports = {
     title: `Samuel Dias`,
     name: `Samuel Dias`,
     siteUrl: `http://localhost:8000/`,
-    description: `Minha pequena contribuição para o mundo de análise de dados e negócios.`,
+    description: `Minha pequena contribuição para o mundo.`,
     hero: {
-      heading: `Minha pequena contribuição para o mundo de análise de dados e negócios.`,
+      heading: `Minha pequena contribuição para o mundo.`,
       maxWidth: 800,
     },
     social: [
