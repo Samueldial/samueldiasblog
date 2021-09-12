@@ -2,7 +2,7 @@
 title: O Fim da Epopeia de um Homem Inútil
 author: Samuel Dias
 date: 2018-11-22
-hero: ./images/hero.jpg
+hero: ./images/capa.jpg
 excerpt: Artigo que postei no Medium há algum tempo que resolvi manter aqui como lembrança.
 ---
 
@@ -36,15 +36,19 @@ Em minha jornada de autoconhecimento tive um pouco de esperança de ser uma “p
 
 E nunca perdi essas habilidades inúteis que adquiri ao passar do tempo, mas estranhamente elas se acumularam e se fundiram. Você também acha que seu “problema” era esse?
 
-_Hoje sou muito mais hábil em aprender alguma inutilidade._
+_| Hoje sou muito mais hábil em aprender alguma inutilidade._
 
 E como eu justifico isso? As pessoas me perguntam “por que?” e eu respondo “por que não?”. Mas antes de você me identifique como um grande explorador, esse “por que não?” as vezes consistia em subir em um poste, por exemplo.
+
+![](https://miro.medium.com/max/300/1*R-Mzu8Nv5s4dsbawFte0bw.gif)
 
 # __Agora vem a parte boa__
 
 Desde que comecei a me envolver com Startups (por que não?) e estudar o que leva uma empresa a ser inovadora, tenho visto como são as quebras de paradigmas que uma empresa ou empreendedor deve ter em mente.
 
 O empresário “moderno” deve estar sempre aberto a mudanças, deve ser extremamente flexível a novas ideias, não ter apego a ideias que potencialmente não darão certo, principalmente, ser um eterno aprendiz, disposto a correr riscos e a iniciar tudo do zero quando necessário. Ele é uma pessoa que resolve problemas e vende a solução mais eficiente.
+
+![](https://miro.medium.com/max/512/1*X4UCHSQ_B0DPf1OTZTcMxA.gif)
 
 Eu sei o que você está pensando, é uma forma muito simples de ver algo muito difícil e complicado de se conseguir, principalmente para pessoas como nós. Empreender em uma startup certamente vai exigir um “bom em algo” junto com muita dedicação e autocontrole. Mas veja bem, é uma luz no fim do túnel!
 
@@ -59,6 +63,8 @@ Por exemplo, por causa da música aprendi autoaprendizado, que diante de uma gra
 A contabilidade além da profissão me ensinou a lidar com estresse, prazos e governo. A lanhouse com computadores. Desenvolvimento de softwares com pensamento sistemático. O departamento de RH com pessoas. Filmes, livros e músicas com autoconhecimento e empatia. O desenho com a capacidade de procurar novos ângulos e novas perspectivas, ou até mesmo uma nova narrativa…
 
 Você pode pegar as suas experiências e extrair algo útil. Pode usar sua rotina para identificar problemas solucionáveis. Você pode estar sempre alerta, pegar o que existe, bagunçar e montar as peças de um nova forma, mais criativa e eficiente. Por que não?
+
+![](https://miro.medium.com/max/278/1*n1OwkR5GhRSHKByUdG-LRg.gif)
 
 # __E agora, José?__
 
